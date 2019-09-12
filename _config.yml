@@ -2,5 +2,6 @@ theme: jekyll-theme-minimal
 plugins:
   - jekyll-seo-tag
 title: Florian Hopfmueller's Github Page
+author: fhopfmueller
 social:
   name: Florian Hopfmueller
